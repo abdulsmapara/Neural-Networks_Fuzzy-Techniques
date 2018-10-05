@@ -1,4 +1,4 @@
-# Neural-Networks_Fuzzy-Logic
+# Neural-Networks and Fuzzy-Techniques
 
 
 Applications: https://www.youtube.com/watch?v=LmDDPpk9qe0
