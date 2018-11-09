@@ -1,3 +1,3 @@
 
-# USAGE
-# python code.py
+USAGE
+$ python code.py
